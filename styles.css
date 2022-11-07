@@ -78,3 +78,21 @@ body {
 .frank-ruhl-libre {
     font-family: 'Frank Ruhl Libre';
 }
+
+.text-panel h1 {
+    font-weight: 700;
+    font-size: 32px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.text-panel h2 {
+    font-weight: 500;
+    font-size: 18px;
+    font-family: 'Lora';
+}
+
+.text-panel h3 {
+    font-weight: 300;
+    font-size: 14px;
+    font-family: 'Frank Ruhl Libre';
+}
